@@ -7,7 +7,7 @@
 my-vanilla-js-project/
 ├── public/
 │ ├── images/
-│ │ ├── Vats Store.png
+│ │ ├── vatsStore.png
 │ │ └── background.jpg
 │ └── index.html
 ├── src/
@@ -23,7 +23,7 @@ my-vanilla-js-project/
 my-vanilla-js-project/
 ├── public/
 │ ├── images/
-│ │ ├── Vats Store.png
+│ │ ├── vatsStore.png
 │ │ └── background.jpg
 │ └── index.html
 ├── index.html

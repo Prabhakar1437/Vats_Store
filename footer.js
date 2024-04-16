@@ -2,7 +2,7 @@ const footerHTML = `
   <footer class="section-footer">
     <div class="footer-container container">
       <div class="content_1">
-        <img src="./images/Vats Store.png" alt="logo" />
+        <img src="./images/vatsStore.png" alt="logo" />
         <p>
           Welcome to Vats EcomStore, <br />
           your ultimate destination for
